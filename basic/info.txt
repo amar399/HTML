@@ -1,0 +1,81 @@
+            // Tag :- it is a markuP entity used to Provide meaning or sructure and formating 
+
+            Here are some of the most common HTML tags and their purposes:
+
+            1. Document Structure Tags
+            <!DOCTYPE html>: Defines the document type and version of HTML being used.
+            <html>: The root element of an HTML page.
+            <head>: Contains meta-information about the document (e.g., title, character set, links to scripts and stylesheets).
+            <body>: Contains the content of the HTML document, such as text, images, links, etc.
+            2. Metadata Tags
+            <title>: Sets the title of the document, shown in the browser's title bar or tab.
+            <meta>: Provides metadata about the HTML document, such as description, keywords, author, and viewport settings.
+            <link>: Defines the relationship between the current document and an external resource (most commonly used to link to stylesheets).
+            3. Content Sectioning Tags
+            <header>: Represents introductory content, typically a group of introductory or navigational aids.
+            <nav>: Contains navigation links.
+            <main>: Specifies the main content of a document.
+            <section>: Defines a section in a document.
+            <article>: Represents a self-contained piece of content.
+            <aside>: Defines content aside from the content it is placed in (like a sidebar).
+            <footer>: Represents the footer of a section or document.
+            4. Text Content Tags
+            <h1> to <h6>: Define HTML headings, with <h1> being the highest (or most important) level and <h6> the lowest.
+            <p>: Defines a paragraph.
+            <blockquote>: Defines a section that is quoted from another source.
+            <pre>: Defines preformatted text.
+            <b>: Defines bold text.
+            <i>: Defines italic text.
+            <u>: Defines underlined text.
+            <strong>: Defines important text.
+            <em>: Defines emphasized text.
+            5. List Tags
+            <ul>: Defines an unordered list.
+            <ol>: Defines an ordered list.
+            <li>: Defines a list item.
+            <dl>: Defines a description list.
+            <dt>: Defines a term/name in a description list.
+            <dd>: Describes a term/name in a description list.
+            6. Media Tags
+            <img>: Embeds an image.
+            <audio>: Embeds sound content.
+            <video>: Embeds video content.
+            <canvas>: Used to draw graphics on the fly via scripting (usually JavaScript).
+            <figure>: Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+            <figcaption>: Defines a caption for a <figure> element.
+            7. Link Tags
+            <a>: Defines a hyperlink, which is used to link from one page to another.
+            <link>: Defines the relationship between the current document and an external resource (often used to link to stylesheets).
+            8. Table Tags
+            <table>: Defines a table.
+            <caption>: Defines a table caption.
+            <tr>: Defines a row in a table.
+            <th>: Defines a header cell in a table.
+            <td>: Defines a cell in a table.
+            <thead>: Groups the header content in a table.
+            <tbody>: Groups the body content in a table.
+            <tfoot>: Groups the footer content in a table.
+            9. Form Tags
+            <form>: Defines an HTML form for user input.
+            <input>: Defines an input control.
+            <textarea>: Defines a multi-line text input control.
+            <button>: Defines a clickable button.
+            <label>: Defines a label for an <input> element.
+            <select>: Defines a drop-down list.
+            <option>: Defines an option in a drop-down list.
+            <fieldset>: Groups related elements in a form.
+            <legend>: Defines a caption for a <fieldset> element.
+            10. Embedded Content Tags
+            <iframe>: Embeds another HTML page within the current page.
+            <embed>: Embeds external content, typically multimedia.
+            <object>: Embeds an object, such as multimedia or other applications.
+            <param>: Defines parameters for an <object> element.
+            11. Programming Tags
+            <script>: Embeds a client-side script (e.g., JavaScript).
+            <noscript>: Defines an alternate content for users that do not support client-side scripts.
+            12. Miscellaneous Tags
+            <div>: Defines a division or section in an HTML document, often used as a container for other elements to apply styles or scripting.
+            <span>: Defines a section in a document, used for styling or scripting small portions of text.
+            <br>: Inserts a single line break.
+            <hr>: Defines a thematic change in the content.
+            <wbr>: Defines a possible line-break.
