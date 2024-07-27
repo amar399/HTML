@@ -1,0 +1,82 @@
+<!-- 
+ form in html is used to take input from user and interact with users 
+ to fill just like a filling online form 
+
+ Login ID -
+ Password -
+
+ Tags in Form -
+ 1. <form> </form> - used to create form to interact with user 
+ 2. <input> </input> - it can be displayed in many forms to take input from users
+ 3. <label> </label> - used to create label for input , 
+                       it has a "for -" attributes which is equal to input id value
+
+  
+  form element -
+  1. input 
+  2. label
+  3. select = dropdown menu
+  4. button
+  5. text area = to get multiline input 
+  6. file select = for uploading purpsoe 
+  7. password field 
+  6. fieldset = is used to group form element to increse visibility
+  7. caption - legend to give name for group element                      
+ -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+        </head>
+
+        <body>
+            <form>
+                
+                <!-- 
+                 here lable is used to connect with input 
+                 and give variable name to input
+                  -->
+                <label for="email">Enter Email ID</label>
+                <input type="text" id = "email" placeholder="enter your email here..">
+
+                <!-- 
+                 here type attribute defines which type of input box we want to craete
+                 "type"
+                 1. rectangle -------------------type = text by default 
+                 2. radio button ----------------type = radio
+                 3. check box ------------------ type = check box 
+                 4. for date box---------------- type = date 
+                 5. to submit all data---------  type = submit used to create button using submit type 
+
+                 "id" - is used to give name of the input variable
+                 -->
+
+
+                <br>
+                <br>
+                <!-- Variable Name Enter Password -->
+                <label for="password">Enter Password</label>
+                <input type="text" id = "password">
+
+
+                <br>
+                <br>
+                 <!--
+                 - create button using input tag 
+                 - here value decide what name is shown on top of the button 
+                  -->
+                <input type="submit" value="submit">
+
+                <!-- 
+                 create button using input tag
+                 <button>summit</button>
+                -->
+
+            </form>
+
+        </body>
+</html>
