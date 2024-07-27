@@ -1,7 +1,7 @@
             // Tag :- it is a markuP entity used to Provide meaning or sructure and formating 
 
             Here are some of the most common HTML tags and their purposes:
-
+            
             1. Document Structure Tags
             <!DOCTYPE html>: Defines the document type and version of HTML being used.
             <html>: The root element of an HTML page.
@@ -74,7 +74,8 @@
             <script>: Embeds a client-side script (e.g., JavaScript).
             <noscript>: Defines an alternate content for users that do not support client-side scripts.
             12. Miscellaneous Tags
-            <div>: Defines a division or section in an HTML document, often used as a container for other elements to apply styles or scripting.
+            <div>: Defines a division or section in an HTML document, 
+            often used as a container for other elements to apply styles or scripting.
             <span>: Defines a section in a document, used for styling or scripting small portions of text.
             <br>: Inserts a single line break.
             <hr>: Defines a thematic change in the content.
